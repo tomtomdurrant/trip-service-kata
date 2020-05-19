@@ -68,3 +68,5 @@ xcuserdata
 *.xccheckout
 *.moved-aside
 *.xcuserstate
+/c#/TripServiceKata/.vs/TripServiceKata/v16/TestStore/0/000.testlog
+*.manifest
